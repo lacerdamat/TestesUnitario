@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\bin\Debug\net6.0\UnitarioConsole.exe
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\bin\Debug\net6.0\UnitarioConsole.deps.json
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\bin\Debug\net6.0\UnitarioConsole.runtimeconfig.json
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\bin\Debug\net6.0\UnitarioConsole.dll
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\bin\Debug\net6.0\UnitarioConsole.pdb
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.dll
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\refint\UnitarioConsole.dll
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.pdb
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\UnitarioConsole.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\TestesUnitarios\UnitarioConsole\obj\Debug\net6.0\ref\UnitarioConsole.dll
